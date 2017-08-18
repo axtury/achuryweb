@@ -125,3 +125,13 @@ figcaption{
 	margin-top: 5px;
 	margin-bottom: 20px;
 }
+.localization h4{
+	color: #00a9e6;
+	font-size: 20px;
+  	font-weight: 400;
+}
+.localization_2 h4{
+	color: #0183b2;
+	font-size: 20px;
+  	font-weight: 400;
+}
