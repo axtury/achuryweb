@@ -9,7 +9,7 @@
 	width: 0;
 	margin: 0 auto;
 
-	border-bottom: 1px solid #00a9e6;
+	border-bottom: 1px solid #0183b2;
 
 	transition: width .2s;
 }
@@ -23,7 +23,7 @@ header .navbar-default .navbar-nav li a {
 
 
 header .navbar-default .navbar-nav li a:hover {
-	color: #00a9e6;
+	color: #0183b2;
 
 	transition: color .2s;
 }
@@ -35,7 +35,7 @@ header .navbar-default .navbar-nav li a:hover {
 }
 
 .navbar-default .navbar-brand  {
-	color: #00a9e6;
+	color: #0183b2;
 	font-weight: 500;
 	letter-spacing: 1px;
 	margin-top:-20px;
@@ -73,7 +73,7 @@ header .navbar-default .navbar-nav li a:hover {
 	width: 0;
 	margin: 0 auto;
 
-	border-bottom: 1px solid #00a9e6;
+	border-bottom: 1px solid #0183b2;
 
 	transition: width .2s;
 }
@@ -92,7 +92,7 @@ header .navbar-default .navbar-nav li a:hover {
 
 
 .blue_line li a:hover {
-	color: #00a9e6;
+	color: #0183b2;
 
 	transition: color .2s;
 }
@@ -114,7 +114,7 @@ header .navbar-default .navbar-nav li a:hover {
 	transition: color .2s;
 }
 a {
-color: #00a9e6;
+color: #0183b2;
 }
 #portfolio-work{
 	margin-top: 30px;
@@ -126,12 +126,7 @@ figcaption{
 	margin-bottom: 20px;
 }
 .localization h4{
-	color: #00a9e6;
-	font-size: 20px;
-  	font-weight: 400;
-}
-.localization_2 h4{
 	color: #0183b2;
 	font-size: 20px;
   	font-weight: 400;
-}
+
